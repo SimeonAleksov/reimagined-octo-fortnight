@@ -1,3 +1,6 @@
 [submodule "tracking_service"]
 	path = tracking_service
 	url = https://github.com/SimeonAleksov/tracking-service
+[submodule "cli"]
+	path = cli
+	url = https://github.com/SimeonAleksov/go-cli
