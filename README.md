@@ -23,3 +23,8 @@
 - **Fault Tolerance and Resilience**: Golang's built-in error handling and goroutines (lightweight threads) enable the CLI client to handle network errors seamlessly. It can recover from errors without requiring a full restart, ensuring a fault-tolerant behavior even in the presence of intermittent network connectivity issues.
 
 - **Performance**: Golang's runtime is designed to be efficient, resulting in fast execution times. This is beneficial for a CLI client that needs to process and display messages in real-time, providing a responsive and performant user experience.
+
+
+## Important note: 
+
+Part of my technology/architecture decision was to learn rust, and to have fun :)
