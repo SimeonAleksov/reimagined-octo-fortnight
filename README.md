@@ -28,3 +28,12 @@
 ## Important note: 
 
 Part of my technology/architecture decision was to learn rust, and to have fun :)
+
+
+## Installing
+
+- Clone the repository
+```sh
+git clone --recurse-submodules https://github.com/SimeonAleksov/reimagined-octo-fortnight
+cd reimagined-octo-fortnight/
+```
