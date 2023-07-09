@@ -33,9 +33,25 @@ Part of my technology/architecture decision was to learn rust, and to have fun :
 ![image](https://github.com/SimeonAleksov/reimagined-octo-fortnight/assets/24735292/e2491ab8-916b-4365-b728-1f061bd1d6c0)
 
 ## Installing
+To run this, first
 
+```shell
+$ cd tracking_service
+$ docker compose up
+```
+
+After kafka, zoo, and postgres are up, we can run the go compose
+
+```shell
+$ cd cli
+$ docker compose up
+```
+
+WIP!
 - Clone the repository
 ```sh
 git clone --recurse-submodules https://github.com/SimeonAleksov/reimagined-octo-fortnight
 cd reimagined-octo-fortnight/
 ```
+
+
