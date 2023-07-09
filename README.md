@@ -29,6 +29,8 @@
 
 Part of my technology/architecture decision was to learn rust, and to have fun :)
 
+## Architecture overview
+![image](https://github.com/SimeonAleksov/reimagined-octo-fortnight/assets/24735292/e2491ab8-916b-4365-b728-1f061bd1d6c0)
 
 ## Installing
 
