@@ -39,6 +39,10 @@ To run this, first
 $ cd tracking_service
 $ docker compose up
 ```
+Create the topic:
+```shell
+docker-compose exec kafka /bin/kafka-topics --create --topic accounts --bootstrap-server localhost:9092
+```
 
 After kafka, zoo, and postgres are up, we can run the go compose
 
